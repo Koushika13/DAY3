@@ -1,0 +1,16 @@
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY3\DAY3\bin\Debug\net5.0\DAY3.exe
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY3\DAY3\bin\Debug\net5.0\DAY3.deps.json
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY3\DAY3\bin\Debug\net5.0\DAY3.runtimeconfig.json
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY3\DAY3\bin\Debug\net5.0\DAY3.runtimeconfig.dev.json
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY3\DAY3\bin\Debug\net5.0\DAY3.dll
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY3\DAY3\bin\Debug\net5.0\ref\DAY3.dll
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY3\DAY3\bin\Debug\net5.0\DAY3.pdb
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY3\DAY3\obj\Debug\net5.0\DAY3.csproj.AssemblyReference.cache
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY3\DAY3\obj\Debug\net5.0\DAY3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY3\DAY3\obj\Debug\net5.0\DAY3.AssemblyInfoInputs.cache
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY3\DAY3\obj\Debug\net5.0\DAY3.AssemblyInfo.cs
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY3\DAY3\obj\Debug\net5.0\DAY3.csproj.CoreCompileInputs.cache
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY3\DAY3\obj\Debug\net5.0\DAY3.dll
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY3\DAY3\obj\Debug\net5.0\ref\DAY3.dll
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY3\DAY3\obj\Debug\net5.0\DAY3.pdb
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY3\DAY3\obj\Debug\net5.0\DAY3.genruntimeconfig.cache
