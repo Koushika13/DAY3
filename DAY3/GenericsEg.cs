@@ -147,7 +147,7 @@ namespace DAY3
                 Console.WriteLine("ID:{0} || name:{1} || City:{2}", p.id, p.name, p.city);
             }
 
-            Console.WriteLine("-------------");
+            Console.WriteLine("-------------")
             DictionaryEg();
             Console.WriteLine("--------------");
             StackEg();
